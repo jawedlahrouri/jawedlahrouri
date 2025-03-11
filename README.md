@@ -25,8 +25,8 @@ Here are some projects I've worked on:
 - **[Setting_up](https://github.com/jawedlahrouri/Setting_up-Epitech-Epitech)** – Search the greatest square possible in a 2D grid
 
 ## 📈 GitHub Stats   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONUSERGITHUB&show_icons=true&theme=radical&v=1)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TONUSERGITHUB&layout=compact&show_icons=true&theme=radical&v=1)
+![Jawed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawedlahrouri&show_icons=true&theme=radical&v=1)  
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jawedlahrouri&layout=compact&show_icons=true&theme=radical&v=1)  
 
 ## 📫 Contact me  
 - **📍 Location:** Lille, France  
