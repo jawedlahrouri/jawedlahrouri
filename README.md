@@ -20,16 +20,18 @@ I'm currently deepening my understanding of:
 
 ## 📌 Projects  
 Here are some projects I've worked on:  
-- **[Organized][(https://github.com/jawedlahrouri/organized-Epitech))** – A small shell that manipulate linked lists  
+- **[Organized](https://github.com/jawedlahrouri/organized-Epitech)** – A small shell that manipulate linked lists
+- **[My_hunter](https://github.com/jawedlahrouri/My_hunter-Epitech)** – My first video game in csfml
+- **[Setting_up](https://github.com/jawedlahrouri/Setting_up-Epitech-Epitech)** – Search the greatest square possible in a 2D grid
 
 ## 📈 GitHub Stats  
 ![Jawed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawedlahrouri&show_icons=true&theme=radical&v=1)  
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jawedlahrouri&layout=compact&show_icons=true&theme=radical&v=1)  
 
-## 📫 Get in Touch  
+## 📫 Contact me  
 - **📍 Location:** Lille, France  
 - **✉️ Email:** jawed.lahrouri@epitech.eu  
 - **🔗 LinkedIn:** [jawed lahrouri](https://linkedin.com/in/jawed-lahrouri)  
 
-✨ Let's build something awesome together! 🚀  
+✨ Thank you for visiting my GitHub profile! 🚀  
 
