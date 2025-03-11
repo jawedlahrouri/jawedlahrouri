@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 ## 📫 Get in Touch  
 - **📍 Location:** Lille, France  
 - **✉️ Email:** jawed.lahrouri@epitech.eu  
-- **🔗 LinkedIn:** [jawed-lahrouri](https://linkedin.com/in/jawed-lahrouri)  
+- **🔗 LinkedIn:** [jawed lahrouri](https://linkedin.com/in/jawed-lahrouri)  
 
 ✨ Let's build something awesome together! 🚀  
 
