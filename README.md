@@ -24,10 +24,6 @@ Here are some projects I've worked on:
 - **[My_hunter](https://github.com/jawedlahrouri/My_hunter-Epitech)** – My first video game in csfml
 - **[Setting_up](https://github.com/jawedlahrouri/Setting_up-Epitech-Epitech)** – Search the greatest square possible in a 2D grid
 
-## 📈 GitHub Stats   
-![Jawed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawedlahrouri&show_icons=true&theme=radical&v=1)  
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jawedlahrouri&layout=compact&show_icons=true&theme=radical&v=1)  
-
 ## 📫 Contact me  
 - **📍 Location:** Lille, France  
 - **✉️ Email:** jawed.lahrouri@epitech.eu  
