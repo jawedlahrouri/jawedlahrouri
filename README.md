@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ## 💡 About Me  
-I'm **Jawed Lahrouri**, a first-year student at **Epitech Lille (Class of 2029)**, passionate about software development and always eager to learn and improve.
+I'm **Jawed Lahrouri**, a second-year student at **Epitech Lille (Class of 2029)**, passionate about software development and always eager to learn and improve.
 
 ---
 
@@ -50,8 +50,7 @@ I'm **Jawed Lahrouri**, a first-year student at **Epitech Lille (Class of 2029)*
 I'm currently focusing on:  
 - 🔍 Advanced **C** programming  
 - ⚙️ Shell scripting and **Linux internals**  
-- 🐘 PHP with **Laravel**  
-- 🧠 Python web frameworks like **Flask** and **FastAPI**  
+- 🐘 PHP with **Laravel**   
 - ☁️ DevOps fundamentals and **CI/CD pipelines**
 
 ---
