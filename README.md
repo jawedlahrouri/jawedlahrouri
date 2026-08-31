@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ## 💡 About Me  
-I'm **Jawed Lahrouri**, a second-year student at **Epitech Lille (Class of 2029)**, passionate about software development and always eager to learn and improve.
+I'm **Jawed Lahrouri**, a third-year student at **Epitech Lille (Class of 2029)**, passionate about software development and always eager to learn and improve.
 
 ---
 
