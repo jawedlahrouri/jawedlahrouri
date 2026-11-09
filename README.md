@@ -60,20 +60,21 @@ I'm currently focusing on:
 - 🔹 [**Sensai**](https://github.com/jawedlahrouri/Sensai)  
   Project SENSAI is a modular AI assistant featuring RAG-based Warring States historical analysis and turn-based tactical simulation
 
-- 🔹 [**CVRIE**](https://github.com/jawedlahrouri/Cvrie)  
-  Project CVRIE explores Python machine learning fundamentals across supervised learning, unsupervised learning, and an interactive application.
-
 - 🔹 [**Start_Trek**](https://github.com/jawedlahrouri/Start_trek)  
   Project Start Trek trains a reinforcement learning AI agent to safely land in Gymnasium's LunarLander-v3 environment.
   
-- 🔹 [**Tardis**](https://github.com/jawedlahrouri/Tardis)  
-  The TARDIS project is a data analysis and machine learning initiative developed to improve the efficiency of train travel across France.
+- 🔹 [**CVRIE**](https://github.com/jawedlahrouri/Cvrie)  
+  Project CVRIE explores Python machine learning fundamentals across supervised learning, unsupervised learning, and an interactive application.
+
+- 🔹 [**Persona**](https://github.com/jawedlahrouri/persona)  
+  Automated News Bot via n8n
 
 - 🔹 [**Zappy**](https://github.com/jawedlahrouri/Zappy)  
   A multiplayer network game where teams of autonomous AI explore a planet, collect resources, and level up through spells. The first team to get 6 players to level 8 wins.
 
-- 🔹 [**Persona**](https://github.com/jawedlahrouri/persona)  
-  Automated News Bot via n8n
+- 🔹 [**Tardis**](https://github.com/jawedlahrouri/Tardis)  
+  The TARDIS project is a data analysis and machine learning initiative developed to improve the efficiency of train travel across France.
+
 ---
 
 ## 📫 Contact  
